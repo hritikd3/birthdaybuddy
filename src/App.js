@@ -72,7 +72,7 @@ function App() {
           <input
             type="text"
             className="grocery"
-            placeholder="e.g. Sanaya's bday- 8 Oct"
+            placeholder="eg: Vinit's bday- 7 Oct"
             value={name}
             onChange={(e) => setName(e.target.value)}
           />
